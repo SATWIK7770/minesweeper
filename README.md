@@ -92,5 +92,4 @@ Dark mode or theme selector
 
 Sound effects
 
-📄 License
-MIT License
+
