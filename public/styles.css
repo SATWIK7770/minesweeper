@@ -1,0 +1,10 @@
+body{
+  margin:0px;
+  background-color:#F1F5F2;
+}
+
+#myCanvas{
+  width :729px;
+  height : 643px;
+
+}
