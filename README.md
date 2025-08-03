@@ -1,4 +1,5 @@
 🧨 Minesweeper Game
+
 A modern Minesweeper game built with HTML5 Canvas, JavaScript, and Node.js (Express + SQLite). It features responsive design, a leaderboard system, and a safe first click — all designed for a smooth and fair gaming experience.
 
 🎮 Features
